@@ -1,6 +1,8 @@
 # SphereSpeakers
 3D Printed Sphere Speaker Enclosures with Stands
 
+![Sphere Speaker Image](Spheres.jpg)
+
 ## Description
 
 3D Printed spehrical enclosures that will work with the Dayton Audio PS95 3.5" Full range driver
